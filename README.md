@@ -1,2 +1,2 @@
 # sorting-challenge
-#Sorted my favourite songs by their name length using bubble sort
+#Sorted some of my favourite songs by their name length using bubble sort
